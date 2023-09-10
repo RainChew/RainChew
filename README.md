@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ChewLipSin/ChewLipSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RainChew/RainChew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChewLipSin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChewLipSin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RainChew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RainChew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <!--
-<img src="https://raw.githubusercontent.com/ChewLipSin/ChewLipSin/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RainChew/RainChew/output/snake.svg" alt="Snake animation" />
 -->
 
 ###
