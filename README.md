@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </div>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChew&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=250" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChew&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=230" height="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RainChew&theme=2077&utcOffset=+8" height="300"/>
   </div>
 
