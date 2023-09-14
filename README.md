@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChewa&layout=compact&theme=buefy&hide_border=true" /></a> | -->
   <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=RainChew&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="RainChew's github stats"  height="150"/>
+  <img src="https://streak-stats.demolab.com?user=RainChew&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="RainChew's github stats"  height="150"/>
   </div>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChew&layout=donut-vertical&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=230" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChew&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=230" height="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RainChew&theme=2077&utcOffset=+8" height="300"/>
   </div>
 
