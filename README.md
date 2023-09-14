@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=RainChew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 <!-- <a href="https://github.com/RainChew/github-readme-stats"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RainChew's github stats" />
 <!-- </a> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChewa&layout=compact&theme=buefy&hide_border=true" /></a> | -->
-
   <img src="https://streak-stats.demolab.com?user=RainChew&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RainChew's github stats" />
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RainChew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
