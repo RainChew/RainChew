@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=RainChew&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+      <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/RainChew?theme=radical&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37&hide_border=true" alt="RainChew's github stats"  height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="RainChew's github stats"  height="150"/>
   </div>
 <div align="center">
