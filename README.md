@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=RainChew&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RainChew&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="RainChew's github stats&rank_icon=percentile"  height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RainChew&rank_icon=github&include_all_commits=true&theme=radical&hide_border=true" alt="RainChew's github stats"  height="150"/>
   </div>
 <div align="center">
 
