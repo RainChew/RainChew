@@ -36,19 +36,20 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainChew&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=230" height="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RainChew&theme=2077&utcOffset=+8" height="300"/>
   </div>
-
-<img src="https://github-contribution-graph.ez4o.com/?username=RainChew&last_n_days=14&img_url=https://i0.wp.com/simg.catt.top/mw2000/006yt1Omgy1hwbjt6jdfrg30ve0hhx6p.gif" />
+<div align="center">
+<img height="300" width=350 src="https://i.imgur.com/h6339jd.gif?e=1695100334&s=YBgCuQpHher9EiQmNZqCCQ"  />
+<img height="300" width=350 src="https://i.imgur.com/Nc2PQtN.gif?e=1695131465&s=aVbb9T9ATUe_Mdjup3j-Cg"  />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RainChew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
 
-<img align="right" height="150" src="https://clipart-library.com/image_gallery/n1582574.gif"  />
+<!--<img align="right" height="150" src="https://media1.tenor.com/m/fV3m0mWu3PoAAAAC/pikachu-pokemon.gif"  />-->
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
