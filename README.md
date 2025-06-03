@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RainChew&theme=2077&utcOffset=+8" height="300"/>
   </div>
 
-  <img src="https://github-contribution-graph.ez4o.com/?username=RainChew&last_n_days=14&img_url=https://i.chzbgr.com/full/8563453184/h2B5EF034/pokemon-memes-running-pikachu-gif"/>
+  <img src="https://github-contribution-graph.ez4o.com/?username=RainChew&last_n_days=14&img_url=[https://i0.wp.com/simg.catt.top/mw2000/006yt1Omgy1hwbjt6jdfrg30ve0hhx6p.gif]"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RainChew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
