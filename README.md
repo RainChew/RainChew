@@ -1,3 +1,8 @@
+<h3 align="center">AI • Data Science • Automation</h3>
+
+<p align="center">
+Building AI and audit analytics tools with Python.
+</p>
 <p align="center">
   <img src="https://i.imgur.com/h6339jd.gif" width="320" height="220"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
